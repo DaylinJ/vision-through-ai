@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+science-fair-daylens*.json
+__pycache__/
